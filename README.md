@@ -8,3 +8,8 @@
 - Ranked 228th (top 5%)
 - My Approach: https://ashishtele1992.wordpress.com/2018/08/04/mckinsey-analytics-hackathon-experience/
 - Link: https://datahack.analyticsvidhya.com/contest/mckinsey-analytics-online-hackathon-4/
+
+### Driven Data - Predicting Disease Spread
+
+- Predicting the dengue spread
+- Data by US Federal agencies
