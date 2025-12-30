@@ -1,4 +1,4 @@
-### McKinsey Hackathon (Recommendation System): 1
+### McKinsey Hackathon (Recommendation System): 
 
 - Extensive EDA on given data
 - Useful for feature engineering
